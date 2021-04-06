@@ -1,0 +1,31 @@
+a{
+    
+}
+
+h1{
+    background-color: red;
+}
+
+.section-title{
+    background-color: navajowhite;
+    font-size: 2rem;
+    text-align: center;
+    height: 200px;
+    width: 50vw;;
+    border: black 3px solid;
+    margin: 10px 10px;
+}
+
+.horizontal{
+    display: inline-block;
+    
+}
+
+#lorem-article{
+
+}
+
+#more-important{
+    background-color: saddlebrown;
+    font-size: 3rem;
+}
